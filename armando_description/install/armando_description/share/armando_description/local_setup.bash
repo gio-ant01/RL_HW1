@@ -1,0 +1,1 @@
+/home/user/ros2_ws/src/armando_description/build/armando_description/ament_cmake_environment_hooks/local_setup.bash
